@@ -1,3 +1,3 @@
 evilcos.github.io
 =================
-i am not a hacker, i am a hacker.
+I am not a hacker, i am a hacker. http://evilcos.github.io
